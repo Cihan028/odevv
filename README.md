@@ -1,2 +1,0 @@
-# odevv
-övdev
